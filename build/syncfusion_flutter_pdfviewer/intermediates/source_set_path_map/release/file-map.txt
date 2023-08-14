@@ -1,0 +1,13 @@
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-1.0.0-beta04-0 C:\Users\TUF\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-annotation-experimental-1.1.0-1 C:\Users\TUF\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-core-1.6.0-2 C:\Users\TUF\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-java-1.0.0-beta04-3 C:\Users\TUF\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-packaged_res-4 C:\Users\TUF\AndroidStudioProjects\book_app\build\device_info_plus\intermediates\packaged_res\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-pngs-5 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\generated\res\pngs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-resValues-6 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\generated\res\resValues\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-rs-7 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\generated\res\rs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-8 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-9 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-merged_res-10 C:\Users\TUF\AndroidStudioProjects\book_app\build\syncfusion_flutter_pdfviewer\intermediates\merged_res\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-main-11 C:\Users\TUF\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-22.2.8\android\src\main\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-release-12 C:\Users\TUF\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-22.2.8\android\src\release\res

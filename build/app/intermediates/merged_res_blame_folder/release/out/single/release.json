@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_notification_template_icon_group.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable_launch_background.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout-v21_notification_action.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-v21_launch_background.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable_notification_icon_background.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_decline.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_notification_action.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/notification_action.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable_notification_bg_low.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_notification_template_part_time.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable_notification_tile_bg.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_custom_dialog.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_answer.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_decline_low.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-v21_notification_action_background.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "uz.gita.my.book.app.book_app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_answer_video.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/layout_notification_action_tombstone.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-mdpi-v4_ic_call_answer.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-mdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_answer_low.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxxhdpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-anydpi-v21_ic_call_answer_low.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable_notification_bg.xml.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-xxhdpi-v4_ic_call_decline.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "uz.gita.my.book.app.book_app-merged_res-12:/drawable-ldpi-v4_ic_call_answer_video.png.flat",
+        "source": "uz.gita.my.book.app.book_app-core-1.10.1-4:/drawable-ldpi-v4/ic_call_answer_video.png"
+    }
+]
